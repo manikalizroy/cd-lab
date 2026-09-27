@@ -46,7 +46,7 @@ punct      [.,;()\[\]]
 int main()
 {
    FILE *file;
-   file = fopen("in.c","r");
+   file = fopen("input.c","r");
 
    if(file == NULL)
    {
