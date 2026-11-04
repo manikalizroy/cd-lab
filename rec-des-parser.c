@@ -93,12 +93,12 @@ int main() {
 Input	  Expected result
 i    	    Accepted
 i+i  	    Accepted
-i*i+i  	  Accepted
+i*i+i  	    Accepted
 i+i*i	    Accepted
-(i+i)*i	  Accepted
+(i+i)*i	    Accepted
 i++i	    Rejected
-*i	      Rejected
+*i	        Rejected
 (i+i	    Rejected
 i+i)	    Rejected
-ii	      Rejected
+ii	        Rejected
 */
